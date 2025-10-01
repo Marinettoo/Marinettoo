@@ -32,6 +32,7 @@
 - Linux 
 - Docker y contenedores
 - PHP
+- -Python
 - Android
 
 
@@ -41,6 +42,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Redes%20y%20Sistemas-007ACC?style=for-the-badge" alt="Redes y sistemas"/>    
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 
   
