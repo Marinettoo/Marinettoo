@@ -32,7 +32,7 @@
 - Linux 
 - Docker y contenedores
 - PHP
-- -Python
+- Python
 - Android
 
 
