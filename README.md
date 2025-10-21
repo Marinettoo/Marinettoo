@@ -16,7 +16,7 @@
 ### 👌 Domino:
 - Windows
 - Implementación y administración de sistemas operativos
-- Virtualización (Proxmox, VirtualBox)
+- Virtualización (Proxmox, VirtualBox...)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
@@ -50,12 +50,27 @@
 
 
 ---
+### 📚 Algunos de mis trabajos:
+<a href="https://github.com/Marinettoo/DHCP-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marinettoo&repo=DHCP-Project&theme=dark" />
+</a>
+<a href="https://github.com/Marinettoo/PHP-IAW">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marinettoo&repo=PHP-IAW&theme=dark" />
+</a>
+<a href="https://github.com/Marinettoo/Python-Class-Repo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marinettoo&repo=Python-Class-Repo&theme=dark" />
+</a>
 
+
+---
 ### 📈 Mis estadísticas de GitHub
 
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Marinettoo&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Marinettoo&layout=compact&theme=radical)
+<a href="https://github.com/Marinettoo">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinettoo&layout=compact&theme=dark" />
+</a>
+<a href="https://github.com/Marinettoo">
+  <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Marinettoo&theme=dark" />
+</a>
 
 ---
 
@@ -63,7 +78,5 @@
 
 - ✉️ Email: jperezmarinetto@gmail.com
 - 💼 LinkedIn: [Mi perfil](https://linkedin.com)
-
-  ![Logo de Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
 
 
