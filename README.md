@@ -1,6 +1,5 @@
-# 👋 ¡Hola! Soy Jesús
 
-## 🏫 Estudiante de ASIR
+# 🏫 Estudiante de ASIR
 
 ![Visitas](https://komarev.com/ghpvc/?username=Marinettoo&label=Visitas&color=4caf50&style=flat-square)
 [![GitHub Stars](https://img.shields.io/github/stars/Marinettoo?style=flat-square&color=yellowgreen)](https://github.com/Marinettoo?tab=repositories)
