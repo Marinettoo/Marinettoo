@@ -14,8 +14,11 @@
 ---
 ### 👌 Domino:
 - Windows
+- Linux
 - Implementación y administración de sistemas operativos
 - Virtualización (Proxmox, VirtualBox...)
+- - Redes y sistemas 
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
@@ -27,12 +30,11 @@
 </p>
 
 ### 🌱 Estoy aprendiendo:
-- Redes y sistemas
-- Linux 
 - Docker y contenedores
 - PHP
 - Python
 - Android
+- Gestion y Procesamiento de Datos
 
 
 <!-- Badges con logos -->
